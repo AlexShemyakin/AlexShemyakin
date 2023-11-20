@@ -4,8 +4,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer</h3>
 
-- 🔭 I’m currently working on ![AnaliticBot-for-ACBK ](https://github.com/AlexShemyakin/AnaliticBot-for-ACBK)
-- ![Telegram](https://t.me/AlexanderShemyakin)
+- 🔭 I’m currently working on [AnaliticBot-for-ACBK ](https://github.com/AlexShemyakin/AnaliticBot-for-ACBK)
+- [Telegram](https://t.me/AlexanderShemyakin)
   
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/python/#3776AB" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/django/#092E20" />
