@@ -1,7 +1,8 @@
-![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://papik.pro/uploads/posts/2023-01/1674163093_papik-pro-p-professiya-programmist-risunok-8.jpg))
+![](https://papik.pro/uploads/posts/2023-01/1674163093_papik-pro-p-professiya-programmist-risunok-8.jpg)
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I'm python backend developer</h3>
+
 
 - 🔭 I’m currently working on [AnaliticBot-for-ACBK](https://github.com/AlexShemyakin/AnaliticBot-for-ACBK)
 
