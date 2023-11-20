@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="C:\Users\a.shemiakin\Downloads" alt="Python developer">
 
-<!--
-**AlexShemyakin/AlexShemyakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Alexander
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ![AnaliticBot-for-ACBK ](https://github.com/AlexShemyakin/AnaliticBot-for-ACBK)
+- ![Telegram](https://t.me/AlexanderShemyakin)
+  
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/python/#3776AB" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/django/#092E20" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/postgresql/#4169E1" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/git/#F05032" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/docker/#2496ED" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/nginx/#009639" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/linux/#FCC624" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=AlexShemyakin)
